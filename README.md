@@ -3,8 +3,8 @@
 This project focuses on analyzing Diwali sales data to derive meaningful insights that can improve customer experience and sales performance. The analysis involves data cleaning and manipulation, exploratory data analysis (EDA) using pandas, matplotlib, and seaborn libraries. The goal is to identify potential customers across different states, occupations, gender, and age groups, as well as to determine the most selling product categories and products, which can help in planning inventory and meeting demands effectively.
 **The project comprises the following steps:**
 * Data Cleaning and Manipulation
- - Handled missing values: Identified and dealt with missing values using appropriate methods like imputation or removal.
- - Corrected data types: Ensured that all data types were appropriate for analysis, converting columns where necessary.
+  - Handled missing values: Identified and dealt with missing values using appropriate methods like imputation or removal.
+  - Corrected data types: Ensured that all data types were appropriate for analysis, converting columns where necessary.
 
 * Exploratory Data Analysis (EDA): EDA was performed to understand the data better and uncover patterns and trends. This involved:
   - Descriptive Statistics: Used pandas to generate summary statistics for numerical columns.
